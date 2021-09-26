@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"br.com.topaz.loadBalancer","l":"LoadBalancer"},{"p":"br.com.topaz.loadBalancer","l":"ServerInstance"},{"p":"br.com.topaz.loadBalancer","l":"TickUser"}]
